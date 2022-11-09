@@ -10,7 +10,6 @@ import android.os.IBinder
 import android.os.Message
 import android.os.Messenger
 import android.util.Log
-import androidx.activity.result.contract.ActivityResultContracts
 import com.example.bindservicemessenger.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
